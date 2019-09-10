@@ -1,0 +1,5 @@
+Add - add changes to the staging area to be committed
+
+Commit - changes from the staging area from the local
+
+Push - local commits to publish in the server
